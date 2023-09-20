@@ -34,8 +34,8 @@
 .dropdown-menu {
     border: none;
     border-top: none;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
+    border-top-left-radius: 1;
+    border-top-right-radius: 1;
 }
 
 .background-color-blue-login {
